@@ -2,7 +2,7 @@
 
 Proyecto Coope: Documentos NoSQL para Firestore
 
-## Pasos para agregar cambios
+## Pasos para agregar cambios 
 
 1. Hacer pull con lo último de `main`
 1. Crear un branch nuevo a partir de `main`
