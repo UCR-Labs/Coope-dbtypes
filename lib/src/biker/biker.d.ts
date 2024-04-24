@@ -1,6 +1,6 @@
 import { UserStatus } from '../other/shared';
 /** Si el usuario ciclista esta disponible o no para hacer entregas */
-export type BikerStatus = 'Disconnected' | 'Available' | 'Delivering';
+export declare type BikerStatus = 'Disconnected' | 'Available' | 'Delivering';
 /**
  * Representa un usuario ciclista del sistema
  */
