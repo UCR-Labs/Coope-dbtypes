@@ -6,7 +6,7 @@ export interface Theme {
     primaryColor: string;
     
     /* color secundario de las apps */
-    secundaryColor: string;
+    secondaryColor: string;
     
     /* color terciario de las apps */
     tertiaryColor: string;
