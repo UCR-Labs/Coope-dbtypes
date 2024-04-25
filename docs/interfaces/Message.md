@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/order/chat.ts:3](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/src/order/chat.ts#L3)
+[src/order/chat.ts:3](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/order/chat.ts#L3)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[src/order/chat.ts:2](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/src/order/chat.ts#L2)
+[src/order/chat.ts:2](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/order/chat.ts#L2)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[src/order/chat.ts:4](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/src/order/chat.ts#L4)
+[src/order/chat.ts:4](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/order/chat.ts#L4)

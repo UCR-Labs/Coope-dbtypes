@@ -10,7 +10,7 @@ Representa los colores de la aplicación a usar
 
 - [errorColor](Theme.md#errorcolor)
 - [primaryColor](Theme.md#primarycolor)
-- [secundaryColor](Theme.md#secundarycolor)
+- [secondaryColor](Theme.md#secondarycolor)
 - [successColor](Theme.md#successcolor)
 - [tertiaryColor](Theme.md#tertiarycolor)
 - [warningColor](Theme.md#warningcolor)
@@ -23,7 +23,7 @@ Representa los colores de la aplicación a usar
 
 #### Defined in
 
-src/theme/theme.ts:21
+[src/theme/theme.ts:21](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/theme/theme.ts#L21)
 
 ___
 
@@ -33,17 +33,17 @@ ___
 
 #### Defined in
 
-src/theme/theme.ts:6
+[src/theme/theme.ts:6](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/theme/theme.ts#L6)
 
 ___
 
-### secundaryColor
+### secondaryColor
 
-• **secundaryColor**: `string`
+• **secondaryColor**: `string`
 
 #### Defined in
 
-src/theme/theme.ts:9
+[src/theme/theme.ts:9](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/theme/theme.ts#L9)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-src/theme/theme.ts:18
+[src/theme/theme.ts:18](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/theme/theme.ts#L18)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-src/theme/theme.ts:12
+[src/theme/theme.ts:12](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/theme/theme.ts#L12)
 
 ___
 
@@ -73,4 +73,4 @@ ___
 
 #### Defined in
 
-src/theme/theme.ts:15
+[src/theme/theme.ts:15](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/theme/theme.ts#L15)
