@@ -3,7 +3,7 @@
  */
 export interface Theme {
     primaryColor: string;
-    secundaryColor: string;
+    secondaryColor: string;
     tertiaryColor: string;
     warningColor: string;
     successColor: string;

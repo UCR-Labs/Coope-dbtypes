@@ -19,7 +19,7 @@ Coordenadas
 
 #### Defined in
 
-[src/other/shared.ts:12](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/src/other/shared.ts#L12)
+[src/other/shared.ts:12](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/other/shared.ts#L12)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/other/shared.ts:11](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/src/other/shared.ts#L11)
+[src/other/shared.ts:11](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/src/other/shared.ts#L11)

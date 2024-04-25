@@ -32,7 +32,7 @@ Coleccion de [AdminUser](../interfaces/AdminUser.md)
 
 #### Defined in
 
-[index.ts:31](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L31)
+[index.ts:31](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L31)
 
 ___
 
@@ -44,7 +44,7 @@ Coleccion de [AverageRating](../interfaces/AverageRating.md)
 
 #### Defined in
 
-[index.ts:52](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L52)
+[index.ts:52](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L52)
 
 ___
 
@@ -56,7 +56,7 @@ Coleccion de [Biker](../interfaces/Biker.md)
 
 #### Defined in
 
-[index.ts:34](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L34)
+[index.ts:34](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L34)
 
 ___
 
@@ -68,7 +68,7 @@ Coleccion de [Business](../interfaces/Business.md)
 
 #### Defined in
 
-[index.ts:37](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L37)
+[index.ts:37](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L37)
 
 ___
 
@@ -80,7 +80,7 @@ Coleccion de [Message](../interfaces/Message.md)
 
 #### Defined in
 
-[index.ts:49](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L49)
+[index.ts:49](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L49)
 
 ___
 
@@ -92,7 +92,7 @@ Coleccion de [ConfigItem](../interfaces/ConfigItem.md)
 
 #### Defined in
 
-[index.ts:64](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L64)
+[index.ts:64](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L64)
 
 ___
 
@@ -104,7 +104,7 @@ Coleccion de [Customer](../interfaces/Customer.md)
 
 #### Defined in
 
-[index.ts:40](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L40)
+[index.ts:40](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L40)
 
 ___
 
@@ -116,7 +116,7 @@ Coleccion de [DeliveryAvailable](../interfaces/DeliveryAvailable.md)
 
 #### Defined in
 
-[index.ts:55](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L55)
+[index.ts:55](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L55)
 
 ___
 
@@ -128,7 +128,7 @@ Coleccion de [Order](../interfaces/Order.md)
 
 #### Defined in
 
-[index.ts:43](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L43)
+[index.ts:43](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L43)
 
 ___
 
@@ -140,7 +140,7 @@ Coleccion de [Product](../interfaces/Product.md)
 
 #### Defined in
 
-[index.ts:58](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L58)
+[index.ts:58](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L58)
 
 ___
 
@@ -152,7 +152,7 @@ Coleccion de [Rating](../interfaces/Rating.md)
 
 #### Defined in
 
-[index.ts:46](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L46)
+[index.ts:46](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L46)
 
 ___
 
@@ -164,7 +164,7 @@ Coleccion de [Tag](../interfaces/Tag.md)
 
 #### Defined in
 
-[index.ts:61](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L61)
+[index.ts:61](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L61)
 
 ___
 
@@ -176,4 +176,4 @@ Coleccion de [Theme](../interfaces/Theme.md)
 
 #### Defined in
 
-[index.ts:67](https://github.com/UCR-Labs/Coope-dbtypes/blob/eb93fee/index.ts#L67)
+[index.ts:67](https://github.com/UCR-Labs/Coope-dbtypes/blob/42e7810/index.ts#L67)
