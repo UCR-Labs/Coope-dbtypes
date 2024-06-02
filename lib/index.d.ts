@@ -11,6 +11,7 @@ export { Tag } from './src/product/tag';
 export { ConfigItem, SinpeData } from './src/admin/configItem';
 export { UserStatus, Coords, UserType } from './src/other/shared';
 export { Message } from "./src/order/chat";
+export { Theme } from "./src/theme/theme";
 /**
  * Colecciones de Firestore
  */
@@ -38,5 +39,7 @@ export declare enum FirestoreCollections {
     /** Coleccion de {@link Tag} */
     tags = "tags",
     /** Coleccion de {@link ConfigItem} */
-    configItems = "configItems"
+    configItems = "configItems",
+    /** Coleccion de {@link Theme} */
+    theme = "theme"
 }

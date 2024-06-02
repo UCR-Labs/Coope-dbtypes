@@ -24,6 +24,7 @@ export {UserStatus, Coords, UserType} from './src/other/shared';
 export {Message} from "./src/order/chat";
 export {FaceDetectionResponse, ImageRequest, OffensiveImageResponse} from "./src/gcp/models";
 export {Directions, TravelMode, UnitSystem} from "./src/maps/models";
+export {Theme} from "./src/theme/theme";
 /**
  * Colecciones de Firestore
  */
@@ -62,5 +63,8 @@ export enum FirestoreCollections {
   tags = 'tags',
 
   /** Coleccion de {@link ConfigItem} */
-  configItems = 'configItems'
+  configItems = 'configItems',
+
+  /** Coleccion de {@link Theme} */
+  theme = 'theme'
 }

@@ -15,11 +15,11 @@ import { Message } from "./chat";
  * AcceptedByBiker: Pedido asignado fue aceptado por el ciclista
  * Canceled: el pedido es cancelado por el administrador
  * */
-export type OrderStatus = 'Pending' | 'AcceptedByClient' | 'Processing' | 'AssignedToBiker' | 'InTransit' | 'Arriving' | 'Finished' | 'RatedByClient' | 'Rejected' | 'AcceptedByBiker' | 'Canceled';
+export declare type OrderStatus = 'Pending' | 'AcceptedByClient' | 'Processing' | 'AssignedToBiker' | 'InTransit' | 'Arriving' | 'Finished' | 'RatedByClient' | 'Rejected' | 'AcceptedByBiker' | 'Canceled';
 /** Status de la Orden en español */
 export declare const statusInSpanish: Map<string, string>;
 /** Metodos de pago */
-export type PaymentMethod = 'SINPE' | 'Cash';
+export declare type PaymentMethod = 'SINPE' | 'Cash';
 /** Métodos de pago en español */
 export declare const paymentMethodInSpanish: Map<string, string>;
 /**
