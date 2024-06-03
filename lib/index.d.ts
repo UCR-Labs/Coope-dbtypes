@@ -12,6 +12,7 @@ export { ConfigItem, SinpeData } from './src/admin/configItem';
 export { UserStatus, Coords, UserType } from './src/other/shared';
 export { Message } from "./src/order/chat";
 export { Theme } from "./src/theme/theme";
+export { Directions } from "./src/maps/directions";
 /**
  * Colecciones de Firestore
  */
