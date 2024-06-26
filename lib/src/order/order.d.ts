@@ -19,7 +19,7 @@ export declare type OrderStatus = 'Pending' | 'AcceptedByClient' | 'Processing' 
 /** Status de la Orden en español */
 export declare const statusInSpanish: Map<string, string>;
 /** Metodos de pago */
-export declare type PaymentMethod = 'SINPE' | 'Cash';
+export declare type PaymentMethod = 'SINPE' | 'Cash' | 'SINPEChecked';
 /** Métodos de pago en español */
 export declare const paymentMethodInSpanish: Map<string, string>;
 /**
