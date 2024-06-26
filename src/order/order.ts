@@ -45,12 +45,13 @@ export const statusInSpanish = new Map([
 ]);
 
 /** Metodos de pago */
-export type PaymentMethod = 'SINPE' | 'Cash';
+export type PaymentMethod = 'SINPE' | 'Cash' | 'SINPEVerified';
 
 /** Métodos de pago en español */
 export const paymentMethodInSpanish = new Map([
   ['SINPE', 'SINPE'],
-  ['Cash', 'Efectivo']
+  ['Cash', 'Efectivo'],
+  ['SINPEVerified', 'SINPEVerificado']
 ]);
 
 /**
