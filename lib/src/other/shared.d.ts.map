@@ -1,0 +1,1 @@
+{"version":3,"file":"shared.d.ts","sourceRoot":"","sources":["../../../src/other/shared.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,MAAM,MAAM,UAAU,GAAG,SAAS,GAAG,UAAU,GAAG,UAAU,CAAC;AAE7D;;GAEG;AACH,MAAM,WAAW,MAAM;IACrB,SAAS,EAAE,MAAM,CAAC;IAClB,QAAQ,EAAE,MAAM,CAAC;CAClB;AAED,MAAM,MAAM,QAAQ,GAAG,OAAO,GAAG,UAAU,GAAG,UAAU,CAAC"}

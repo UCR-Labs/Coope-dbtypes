@@ -44,3 +44,4 @@ export declare enum FirestoreCollections {
     /** Coleccion de {@link Theme} */
     theme = "theme"
 }
+//# sourceMappingURL=index.d.ts.map

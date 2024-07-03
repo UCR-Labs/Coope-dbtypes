@@ -8,3 +8,4 @@ export interface Tag {
     /** descripcion corta del tag (e.g. comida circular con queso y tomate) */
     description: string;
 }
+//# sourceMappingURL=tag.d.ts.map

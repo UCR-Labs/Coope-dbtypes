@@ -24,3 +24,4 @@ export interface Customer {
     /** fecha y hora de ultima actualizacion */
     lastUpdate: number;
 }
+//# sourceMappingURL=customer.d.ts.map

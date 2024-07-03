@@ -1,7 +1,7 @@
 import { Coords, UserStatus } from '../other/shared';
 import { Tag } from '../product/tag';
 /** tipo del contacto adicional, como redes sociales o sitio web */
-export declare type BusinessContactType = 'Facebook' | 'Instagram' | 'Website' | 'Other Phone' | 'Fax';
+export type BusinessContactType = 'Facebook' | 'Instagram' | 'Website' | 'Other Phone' | 'Fax';
 /** Contacto de un negocio (e.g. Facebook, Instagram, etc) */
 export interface BusinessContact {
     /** tipo del contacto - ver {@link BusinessContact} */
@@ -45,3 +45,4 @@ export interface Business {
     /** token para los mensajes de la nube */
     fcmToken: string;
 }
+//# sourceMappingURL=business.d.ts.map

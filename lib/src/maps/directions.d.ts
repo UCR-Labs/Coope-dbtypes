@@ -14,3 +14,4 @@ export declare enum UnitSystem {
     IMPERIAL = 0,
     METRIC = 1
 }
+//# sourceMappingURL=directions.d.ts.map

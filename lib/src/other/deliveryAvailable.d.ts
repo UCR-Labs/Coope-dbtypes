@@ -9,3 +9,4 @@ export interface DeliveryAvailable {
     /**Lista de IDs de los ciclistas a los que se les asigna la entrega como disponible */
     bikersId: string[];
 }
+//# sourceMappingURL=deliveryAvailable.d.ts.map

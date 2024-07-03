@@ -9,3 +9,4 @@ export interface Theme {
     successColor: string;
     errorColor: string;
 }
+//# sourceMappingURL=theme.d.ts.map

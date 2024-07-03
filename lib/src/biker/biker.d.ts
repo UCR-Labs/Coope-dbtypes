@@ -1,6 +1,6 @@
 import { UserStatus } from '../other/shared';
 /** Si el usuario ciclista esta disponible o no para hacer entregas */
-export declare type BikerStatus = 'Disconnected' | 'Available' | 'Delivering';
+export type BikerStatus = 'Disconnected' | 'Available' | 'Delivering';
 /**
  * Representa un usuario ciclista del sistema
  */
@@ -35,3 +35,4 @@ export interface Biker {
     /**longitud de la posición actual del biker */
     longitude: number;
 }
+//# sourceMappingURL=biker.d.ts.map

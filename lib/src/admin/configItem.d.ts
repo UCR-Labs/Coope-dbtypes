@@ -32,3 +32,4 @@ export interface SinpeData {
     /** número de teléfono a al que está asociada la cuenta */
     phoneNumber: string;
 }
+//# sourceMappingURL=configItem.d.ts.map

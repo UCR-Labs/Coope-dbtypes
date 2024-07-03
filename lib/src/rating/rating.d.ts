@@ -16,3 +16,4 @@ export interface Rating {
     /** Tipo del usuario calificado (customer, business, biker, etc.). */
     ratedUserType: UserType;
 }
+//# sourceMappingURL=rating.d.ts.map

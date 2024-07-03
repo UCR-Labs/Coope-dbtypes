@@ -27,3 +27,4 @@ export interface Product {
     /** Indica la cantidad de productos dispobibles */
     amountAvailable: number;
 }
+//# sourceMappingURL=product.d.ts.map

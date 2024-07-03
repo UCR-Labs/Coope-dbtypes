@@ -15,3 +15,4 @@ export interface AverageRating {
     /** Puntaje promedio => sumOfRatings / numberOfRatings */
     average: number;
 }
+//# sourceMappingURL=averageRating.d.ts.map

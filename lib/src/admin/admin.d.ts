@@ -2,7 +2,7 @@ import { UserStatus } from '../other/shared';
 /**
  * Tipo de usuario adminsitrador
  */
-export declare type AdminRole = 'Full' | 'Other';
+export type AdminRole = 'Full' | 'Other';
 /**
  * Representa un usuario administrador del sistema
  */
@@ -28,3 +28,4 @@ export interface AdminUser {
     /** token para los mensajes de la nube */
     fcmToken: string;
 }
+//# sourceMappingURL=admin.d.ts.map
