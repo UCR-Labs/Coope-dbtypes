@@ -7,13 +7,12 @@
     "sourceMap": true,
     "strict": true,
     "declaration": true,
-    "target": "es2017",
+    "target": "es2017",  
     "declarationMap": true,
-    "rootDir": ".",
-    "composite": true
+    "rootDir": ".",   
+    "composite": true,  
   },
   "references": [],
   "compileOnSave": true,
-  "include": ["**/*.ts"],
-  "plugin": ["typedoc-plugin-markdown"]
+  "include": ["**/*.ts"]
 }
